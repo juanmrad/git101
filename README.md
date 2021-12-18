@@ -9,4 +9,9 @@ git commit -m ""
 git push
 ```
 
+If you want to pull this github repo changes do
+
+```bash
+git pull
+```
 
